@@ -1,7 +1,7 @@
 // Flatten Nested List Iterator (https://leetcode.com/problems/flatten-nested-list-iterator/)
 
 // Time Complexity: O(h) where h is nested component
-// Space Complexity: O(1)
+// Space Complexity: O(n)
 // Did this code successfully run on Leetcode: Yes
 // Any problem you faced while coding this: No
 
